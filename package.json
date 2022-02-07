@@ -1,0 +1,22 @@
+{
+  "name": "dev-ops-helloworld",
+  "version": "1.0.0",
+  "description": "[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG \"DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes \")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxrafiq/dev-ops-helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linuxrafiq/dev-ops-helloworld/issues"
+  },
+  "homepage": "https://github.com/linuxrafiq/dev-ops-helloworld#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
